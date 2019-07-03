@@ -1,0 +1,43 @@
+{
+  "name": "react-pin-hook",
+  "version": "0.1.3",
+  "description": "react hook for personal identification number",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bshuster-repo/react-pin-hook.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "PIN",
+    "personal-identification-number",
+    "react-hook",
+    "react-pin-hook",
+    "pin",
+    "react-pin",
+    "usePIN",
+    "usepin"
+  ],
+  "author": "Boaz Shuster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bshuster-repo/react-pin-hook/issues"
+  },
+  "homepage": "https://github.com/bshuster-repo/react-pin-hook#readme",
+  "dependencies": {
+    "@xstate/react": "^0.7.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.1",
+    "xstate": "^4.6.4"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^8.0.4",
+    "@testing-library/react-hooks": "^1.1.0",
+    "react-test-renderer": "^16.8.6"
+  }
+}
