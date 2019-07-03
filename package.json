@@ -1,6 +1,6 @@
 {
   "name": "react-pin-hook",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "react hook for personal identification number",
   "main": "index.js",
   "scripts": {
